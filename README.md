@@ -28,13 +28,7 @@ After downloading, create a `data/` folder in the project root and place these f
 
 ## Run
 
-Start Jupyter:
-
-```bash
-jupyter notebook
-```
-
-Then open and run `notebooks/03_fuzzy_classifier_.ipynb` from top to bottom.
+Open and run `notebooks/03_fuzzy_classifier_.ipynb` from top to bottom.
 
 ## Results
 
