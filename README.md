@@ -19,8 +19,6 @@ pip install notebook pandas numpy nltk scikit-learn torch
 
 ## Data
 
-The dataset is not stored in this repository because `data/` is ignored by git.
-
 Download the dataset from Kaggle:
 - https://www.kaggle.com/datasets/sidharth178/disaster-response-messages
 
